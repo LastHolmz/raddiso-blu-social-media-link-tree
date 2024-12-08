@@ -11,6 +11,10 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        insta: "var(--insta)",
+      },
+      backgroundImage: {
+        bg: "url('/radisson-bg.jpg')",
       },
     },
   },
