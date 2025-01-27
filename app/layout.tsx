@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Radisson Blu Link Tree",
-  description: "Radisson Blu Link Tree info",
+  description: "Radisson Blu Link Tree Info",
 };
 
 export default function RootLayout({
