@@ -112,7 +112,7 @@ const CustomLink = ({ href, Icon, title, className }: LinkProps) => {
       <Link
         href={href}
         target="_blank"
-        className={`flex justify-between group hover:bg-white/70 transition-all duration-500 items-center border border-white bg-white/20 rounded-lg py-4 px-3`}
+        className={`flex justify-between group hover:bg-white/80 transition-all duration-500 items-center border border-white bg-slate-50/50 rounded-lg py-4 px-3`}
       >
         <div className=" flex justify-center gap-2 items-center">
           {" "}
